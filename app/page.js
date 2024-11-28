@@ -16,7 +16,7 @@ export default function Home() {
           <li className="mb-2">
            Git virsion control basics
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>JavaScript Fundermental.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
